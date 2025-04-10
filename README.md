@@ -111,7 +111,7 @@ Best performance achieved with early stopping at epoch 17:
 -   Validation accuracy: 97.06%
 -   Validation loss: 0.1598
 
-<img src="vit_small_plot.png" alt="" width="600"/>
+<img src="./images/vit_small_plot.png" alt="" width="600"/>
 
 ## Conclusion
 
